@@ -1,4 +1,4 @@
-Class Engine(self.warning_light_on):
+class Engine(self.warning_light_on):
     pass
 
 class CapuletEngine(Engine):
